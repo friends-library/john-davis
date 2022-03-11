@@ -7,7 +7,7 @@ that so early as the eighth or ninth year of my age (being then more than
 commonly inclined to evils and follies incident to youth,) how the Lord
 followed me with his reproofs of that which I now know to be his Spirit.
 In those days I was brought under such sorrow,
-that I often washed my couch with tears for my then offences against Him;
+that I often washed my couch with tears for my _then_ offences against Him;
 and more particularly about the fifteenth year of my age, when,
 being visited with a sore sickness of nine months`' continuance,
 which brought me near death,
@@ -247,7 +247,7 @@ we had been as Sodom, and been made like unto Gomorrah.`"
 But for His seed`'s sake, which He still loved,
 that was oppressed and loaded as a cart with sheaves, He was pleased to look upon us,
 when we lay polluted in our blood, and said to us,
-"`Live:`" for which my soul cannot but adore his goodness and mercy,
+_"`Live:`"_ for which my soul cannot but adore his goodness and mercy,
 and make humble acknowledgments at this time, returning Him all the praise,
 who only is worthy forever.
 
@@ -330,7 +330,7 @@ Sitting uprightly again, he looked solidly, and cheerfully answered,
 "`If this wine in the glass were poison, and I were to die with taking it,
 (unadvisedly,) I feel satisfied in my mind,
 that the Lord would receive me in his mercy;`"--(or to this effect.) As yet,
-I have had an "`if`" in my mind, and I said to myself, "`if this be true,
+I have had an "`if`" in my mind, and I said to myself, "`_if_ this be true,
 and such a state could be attained by me, it is worth the world and all things in it.`"
 
 Now, although our past sins were become such a burden--greater than we could bear--yet,
@@ -338,7 +338,7 @@ the thought of turning Quaker was so terrible,
 that we concluded to have nothing to do with it, but try to find out some other way,
 whereby we might obtain pardon for our sins, and get peace with God.
 It happened that this doctor had found in our master`'s library,
-Robert Barclay`'s Apology, which he lent me to read;
+Robert Barclay`'s [.book-title]#Apology,# which he lent me to read;
 and when I had perused but a part of it, my understanding was so fully opened,
 as to the doctrinal part of Friends`' principles, that,
 from that time to the present day, I have never had a doubt concerning their truth;
@@ -603,25 +603,36 @@ he has more wit than to continue in it.`"
 My master, who liked me well, agreed to retain me on certain conditions,
 which he desired the steward to propose, as follows:
 
-First.--I must engage not to go to the Quakers`' Meeting,
+[.numbered-group]
+====
+
+[.numbered]
+_First._--I must engage not to go to the Quakers`' Meeting,
 oftener than I used to attend Chapel, which was very seldom.
 
-Secondly.--I must not talk of religion to the other servants,
+[.numbered]
+_Secondly._--I must not talk of religion to the other servants,
 or any of the strangers who came to the house.
 
-Thirdly.--I must neither ask to go myself,
+[.numbered]
+_Thirdly._--I must neither ask to go myself,
 nor take any of the servants with me to Meeting.
 
+[.numbered]
 To the first I answered,--I know not how it may be if I stay twelve months here,
 or if left at my liberty.
 
-To the second,--That I did not and should not force
+[.numbered]
+To the second,--That I did not and should not _force_
 any discourse of a religious nature upon any;
 but if asked questions, I should consider myself at liberty to answer as I thought fit.
 
+[.numbered]
 To the third.--I could not tell whether I might or might not request any to go to Meeting.
 If they had a mind to go I should not hinder them,
 nor be compelled to refuse them my company, if I thought right.
+
+====
 
 He reasoned with me respecting my answers.
 I being fixed, left him to carry them to my master.
@@ -890,7 +901,7 @@ He was pleased to afford; for which, and all other mercies, I desire to be thank
 I now began to consider what business I must commence
 for the maintenance of myself and my wife.
 My capital not exceeding sixty pounds, I feared to enter upon my own trade.^
-footnote:[A Confectioner, it is believed.--Editor]
+footnote:[A Confectioner, it is believed.--__Editor__]
 In a little while I heard of a Friend who wanted a foreman in that line.
 On speaking to him, I found the work was very different to what I had been accustomed,
 and I thought it much too mean for me to accept.
@@ -1147,12 +1158,12 @@ But in His lovingkindness,
 I was shown that these were the delusions of the imagination picturing a sort of likeness,
 and sitting as a Lord.--They were sparks of my own kindling,
 and my portion was to lie down in sorrow many times.
-The Lord showed me there was but one Mediator between God and man, and that was Christ,
-by His Spirit;--that without Him I could do nothing acceptable to God.
-No concern, no zeal, no vows, no prayers, no performances whatsoever, out of that Spirit,
+The Lord showed me there was but _one_ Mediator between God and man, and that was Christ,
+__by His Spirit;__--that without Him I could do nothing acceptable to God.
+No concern, no zeal, no vows, no prayers, no performances whatsoever, _out of that Spirit,_
 had any acceptance with Him.
 Those who would bring honour to God, must be subject to His Holy Spirit in all things;
-for other spirits would honour Him in words, but in works they deny Him,
+for other spirits would honour Him in _words,_ but in _works_ they deny Him,
 taking the glory to themselves.
 I have found, by living experience,
 that the workings of man`'s spirit are for the exaltation of the creature;
@@ -1166,7 +1177,7 @@ when I committed them in ignorance, yet, when I was better taught,
 I suffered much more because of my carelessness; but through all,
 the Lord preserved that sincerity he had begotten in my heart.
 By degrees I learned to fast and to pray,
-that I might be enabled to starve that spirit of self in me;
+that I might be enabled to _starve_ that spirit of self in me;
 and to accept none of the serpent`'s food, which was but dust;
 but to feed on that Bread only which comes down from God out of heaven.
 And I was given to see,
@@ -1193,7 +1204,7 @@ nor covetous of gifts beyond our measure, or in our own wills;
 but our coveting should be in His will, opened in the Light.
 I also saw that "`The Life is more than food, and the Body,
 (which is Christ) than raiment;`" and that we ought to covet faith and hope,
-but most of all love.
+but most of all _love._
 
 But, turning back a little in my narrative;--after times of great trial,
 I had seasons of much comfort, when my soul was more enlarged;
@@ -1213,7 +1224,7 @@ for the root of the tree of iniquity was not yet plucked up,
 but remained and grew in my heart; and I had plumed myself into false confidence,
 from having, as I believed, had times of encouragement, and that my mountain was strong,
 though it lasted only for a season.
-Being sincere, a cry was raised in me for entire deliverance from the thraldom of sin,
+Being sincere, a cry was raised in me for _entire deliverance_ from the thraldom of sin,
 that without reserve there might not be anything
 left alive which was offensive in the Divine sight;
 and that all my affections might be weaned from the things of death.
@@ -1229,7 +1240,7 @@ For I did many things to which my mind consented not; and yet, under this great 
 the Lord`'s arm of power lifted me up.
 Many and fervent were my cries for deliverance from this body of sin and death;
 but I could not get from under it in my own way and time,
-because that in me which had joined issue against the Lord,
+because _that_ in me which had joined issue against the Lord,
 must partake of the plagues He was now pouring on
 that spirit that would rule in my heart,
 and by which the holy name of the Lord was blasphemed.
@@ -1397,6 +1408,9 @@ it may not be amiss to supply the best we can,
 by subjoining the testimony his surviving friends gave of him,
 as prefixed to the original copy in MS.:--
 
+[.embedded-content-document.testimony]
+--
+
 The following pages are the memoir of our worthy friend John Davis, late of London, who,
 we believe, through various trials, and much experience,
 gained an establishment in the blessed Truth.
@@ -1406,6 +1420,8 @@ to a good old age; and was gathered to rest as a shock of corn fully ripe.
 
 He died at Winchmore Hill, and was buried in Friends`' burial ground there,
 in or near the Fourth Month, in the year 1744, aged about seventy-seven years.
+
+--
 
 [.the-end]
 The End
